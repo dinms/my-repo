@@ -1,0 +1,23 @@
+{
+  "name": "my-repo",
+  "version": "1.0.0",
+  "description": "Test create library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -- reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinms/my-repo.git"
+  },
+  "author": "Khairuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinms/my-repo/issues"
+  },
+  "homepage": "https://github.com/dinms/my-repo#readme",
+  "keywords": [
+    "create",
+    "library"
+  ]
+}
